@@ -1,2 +1,5 @@
 # 1-TecDeProgramacion-Tarea
-Created with CodeSandbox
+
+Presentación de ejercicios 1.1 Técnicas de programación
+<br> A-Cálculo de descuentos
+<br> B-Autos de carrera
